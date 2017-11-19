@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">KBC4ALL</string>
+    <string name="title_activity_navigaion__activiy">navigaion_Activiy</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
